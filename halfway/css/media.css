@@ -1,0 +1,33 @@
+@media screen and (max-width: 1152px) {
+    .big {
+        display: inline;
+        padding-right: 70px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .banner {
+        display: inline;
+        width: auto;
+        justify-content: baseline;
+        margin-right: 30px;
+    }
+    .img33 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    .img33 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .wrap-img {
+        width: 1080px;
+    }
+    .footer {
+        width: 1080px;
+    }
+}
